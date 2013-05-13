@@ -1,0 +1,285 @@
+table#edit td {
+	height: 25px;
+}
+/***********************************************************************/
+/***************************User planning pages*************************/
+/***********************************************************************/
+div.systemselect-table {
+	background-color: #ebebeb;
+	margin-top: 5px;
+	padding: 7px;
+}
+h2.systemselect-heading {
+	float: right;
+	font-size: 20px;
+	margin: 0px 20px 0px 0px;
+}
+div.systemselect-table table{
+	width: 300px;
+	height: 35px;
+}
+
+div.applist-table {
+	background-color: #ebebeb;
+	margin-top: 5px;
+	padding: 7px;
+}
+
+div.applist-table th {
+	border-style:solid;
+	border-width:2px;
+	border-color:#a6caf0;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 7px;
+}
+div.applist-table tr {
+	background-color: #eaeaea;
+	margin-top: 5px;
+	padding: 7px;
+}
+h2.applist-heading {
+	float: right;
+	font-size: 20px;
+	margin: 0px 20px 0px 0px;
+}
+div.applist-table table{
+	width: 400px;
+	height: 35px;
+}
+
+div.applist-form {
+	border-style:solid;
+	border-width:1px;
+	width: 300px;
+	margin-top: 5px;
+	padding: 7px;
+}
+div.session-table{
+	
+}
+div.session-text{
+	
+	background-color:#a6caf0;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 7px;
+font-weight:bold;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+div.session-list th{
+
+text-align: center;
+    font-weight: bold;
+    padding: 2px;
+    border: 2px solid #FFFFFF;
+    background: #4a70aa;
+    color: #FFFFFF;
+}
+
+div.session-list tr{
+
+    padding: 4px;
+    border: 2px solid #FFFFFF;
+
+}
+div.session-list td {
+    text-align: center;
+    padding: 2px;
+    border: 2px solid #FFFFFF;
+    background: #e3f0f7;
+}
+div.session-bar a {
+	    color: #fff;
+}
+
+/***********************************************************************/
+/*************************** User list page ****************************/
+/***********************************************************************/
+div.users-list table{
+	 border-spacing: 0px;
+    border-collapse: collapse;
+	width: 650px;
+	
+	
+}
+div.users-list th{
+
+text-align: center;
+    font-weight: bold;
+    padding: 2px;
+    border: 2px solid #FFFFFF;
+    background: #4a70aa;
+    color: #FFFFFF;
+}
+
+div.users-list tr{
+
+    padding: 4px;
+    border: 2px solid #FFFFFF;
+
+}
+
+div.users-list td {
+    text-align: center;
+    padding: 2px;
+    border: 2px solid #FFFFFF;
+    background: #e3f0f7;
+}
+div.users-rap-bar a {
+	    color: #fff;
+}
+/***********************************************************************/
+/*************************Session list page******************************/
+/***********************************************************************/
+
+div.sessions-list table{
+width:750px;
+
+}
+div.sessions-list th{
+
+text-align: center;
+    font-weight: bold;
+    padding: 2px;
+    border: 2px solid #FFFFFF;
+    background: #4a70aa;
+    color: #FFFFFF;
+}
+
+div.sessions-list tr{
+
+    padding: 4px;
+    border: 2px solid #FFFFFF;
+
+}
+div.sessions-list td {
+    text-align: center;
+    padding: 2px;
+    border: 2px solid #FFFFFF;
+    background: #e3f0f7;
+}
+div.sessions-bar a {
+	    color: #fff;
+}
+
+/***********************************************************************/
+
+/***********************************************************************/
+/*************************workoverview list page******************************/
+/***********************************************************************/
+div.workoverview-list th{
+
+text-align: center;
+    font-weight: bold;
+    padding: 2px;
+    border: 2px solid #FFFFFF;
+    background: #4a70aa;
+    color: #FFFFFF;
+}
+
+div.workoverview-list tr{
+
+    padding: 4px;
+    border: 2px solid #FFFFFF;
+
+}
+div.workoverview-list td {
+    text-align: center;
+    padding: 2px;
+    border: 2px solid #FFFFFF;
+    background: #e3f0f7;
+}
+div.workoverview-bar a {
+	    color: #fff;
+}
+
+/***********************************************************************/
+
+/***********************************************************************/
+/***************************** Below = general use *********************/
+/***********************************************************************/
+.button {
+    padding: 2px 5px;
+    display: inline;
+    background: #4a70aa;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    text-shadow: 1px 1px #4a70aa;
+    }
+	
+	
+/***********************************************************************/
+/************************** BUTTON STYLE ****************************/ 
+/***********************************************************************/
+.myButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+	background-color:#79bbff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:2px 7px;
+	text-decoration:none;
+	text-shadow:-4px 2px 0px #528ecc;
+	}.myButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+	background-color:#378de5;
+	}.myButton:active {
+	position:relative;
+	top:1px;
+	}
+	
+	/***********************************************************************/
+	/************************** CALENDAR STYLES ****************************/ 
+	/***********************************************************************/
+.calendar table {  font-family:Tahoma, Geneva, sans-serif; }
+.dash_border { border-bottom:1px dotted #666;}
+table tbody { color:#000; font-size:14px; }
+	table tbody .weekend { color:#990000; font-size:14px;} /* RED HIGHLIGHTING FOR SUNDAY AND SATURDAY */
+	table tbody th { font-size:24px; font-weight:bold; color:#7bb1db; text-transform:uppercase; width:220px;} /* TITLE OF CURRENT MONTH (#0099CC) */
+.previous_month { color:#666666; font-size:18px; text-transform:uppercase; padding-left:20px; background:url(../image/users/arrow_left.jpg) no-repeat left top; text-decoration:none; line-height:24px; width:46px; display:block;}
+.previous_month:hover {  background:url(../image/users/arrow_left_on.jpg) no-repeat left top;}
+.next_month { color:#666666; font-size:18px; text-transform:uppercase; padding-right:20px; background:url(../image/users/arrow_right.jpg) no-repeat right top; text-decoration:none; line-height:24px; width:46px; display:block;}
+.next_month:hover { background:url(../image/users/arrow_right_on.jpg) no-repeat right top;}
+	
+	.cal_reg_on {vertical-align:top; background-color:#95B1FC; width:60px; height:60px; color:#666666; font-size:22px;} /* REGULAR DAY WHICH FALLS UNDER 1 - 31 (dark grey area) (#CCCCCC)or(#33CC66) */
+	.cal_reg_on a { font-size:11px;} /* href style for NO-JS version*/
+	.cal_reg_off {vertical-align:top; background-color:#E4E4E4; width:60px; height:60px;color:#666666; font-size:22px;} /* NOT AVAILABLE SQUARE OR TOTALLY BOOKED SQUARE (#E4E4E4) */
+	.cal_reg_off a { font-size:11px;} /* href style for NO-JS version*/
+.cal_reg_off noscript {font-size:11px;}
+.cal_reg_off span {font-size:11px; padding:0; margin:0;}
+	.cal_reg_on_today {vertical-align:top; background-color:#95E8FB; width:60px; height:60px;color:#666666; font-size:22px; } /* TODAY SQUARE - SQUARE AVAILABLE FOR BOOKING */
+	.cal_reg_on_today a { font-size:11px;} /* href style for NO-JS version*/
+	.cal_reg_off_today {vertical-align:top; background-color:#95E8FB; width:60px; height:60px;color:#666666; font-size:22px; } /* TODAY SQUARE - NOT AVAILABLE FOR BOOKING (#B6DBED) */
+.cal_reg_off_today noscript {font-size:11px;}
+.cal_reg_off_today span {font-size:11px; padding:0; margin:0;}
+	.cal_reg_off_today a { font-size:11px;} /* href style for NO-JS version*/
+	.mainmenu5 {vertical-align:top; background-color:#C7C9CB; width:60px; height:60px;color:#FFF;  cursor:pointer;  } /* HOVER SQUARE (#0099CC)*/ 
+	.mainmenu5 a { font-size:11px;} /* href style for NO-JS version*/
+	
+.error_msg {padding:15px; width:570px; margin:0 auto; font-size:14px;  text-align:center; border:1px solid #F30; background-color:#FEDEDE; margin-top:15px;}
+	
+.cal_text {font-size:11px;}
+.cal_text a { color:#666;}
+.cal_text a:visited { color:#666;}
+noscript a { color:#666;}
+noscript a:visited { color:#666;}
